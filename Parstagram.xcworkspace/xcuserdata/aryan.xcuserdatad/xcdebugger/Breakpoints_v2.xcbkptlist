@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE782007-103B-498E-8253-B02173093FE3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parstagram/FeedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD - b84d3dd33b382d3b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.FeedViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Parstagram.FeedViewController"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aryan/Desktop/IOS%20-%20App%20development%20/Parstagram/Parstagram/Parstagram/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD - 191a65ba43b249fb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.FeedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Parstagram.FeedViewController"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aryan/Desktop/IOS%20-%20App%20development%20/Parstagram/Parstagram/Parstagram/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD - 68459f888e1a8133"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.FeedViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Parstagram.FeedViewController&gt;"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aryan/Desktop/IOS%20-%20App%20development%20/Parstagram/Parstagram/Parstagram/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD - ee6b00fc60baad3f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.FeedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Parstagram.FeedViewController&gt;"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aryan/Desktop/IOS%20-%20App%20development%20/Parstagram/Parstagram/Parstagram/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "95A5DC9F-6C4C-4693-976D-131A09C693BD - b78de7ca1527bbf4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.FeedViewController.__deallocating_deinit"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aryan/Desktop/IOS%20-%20App%20development%20/Parstagram/Parstagram/Parstagram/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
